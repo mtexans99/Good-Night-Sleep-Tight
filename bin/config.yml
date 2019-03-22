@@ -20,9 +20,9 @@ Sleep-Options:
 Message-Options:
     # Broadcast message when someone goes to sleep.
     Sleep-Broadcast:
-        - '{PLAYER} &ewent to bed. Sweet Dreams~'
+        - '{PLAYER} &ewent to bed. sweet dreams lil baby~'
         - 'Players sleeping {COUNTREQ}/{COUNTMAX}'
     
     # Message that only the player that wakes up sees.
-    Player-Wakeup-Message: '&aWAKEY, WAKEY!'
+    Player-Wakeup-Message: '&aWAKEY, WAKEY EGGS PANKAKY!!'
     
